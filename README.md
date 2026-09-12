@@ -55,15 +55,61 @@ I design and engineer production-ready web architectures. Obsessed with high-per
 
 
 
+## 📊 GitHub Activity
+<div align="center">
+
+  <!-- 3D / Snake Contribution Graph (Green Grid Animation) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126output/github-contribution-grid-snake.svg">
+  </picture>
+
+  <br/><br/>
+
+  <!-- Interactive Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiSinghTomar1126&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+
+  <br/><br/>
+
+  <!-- GitHub Stats & Streak Stats Side-by-Side -->
+  <a href="https://github.com/AditiSinghTomar1126">
+    <img src="https://github-readme-stats.vercel.app/api?username=AditiSinghTomar1126&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  </a>
+  <a href="https://github.com/AditiSinghTomar1126">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiSinghTomar1126&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Most Used Languages Card -->
+  <a href="https://github.com/AditiSinghTomar1126">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSinghTomar1126&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile View Counter Badge -->
+  <img src="https://komarev.com/ghpvc/?username=AditiSinghTomar1126&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+</div>
+
+
+
+
+
+
+
 ###  Let's Build Something Great
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 (https://www.linkedin.com/in/aditi-singh-tomar-598320305)
 ---
-[![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)
+(https://aditisinghtomar-aditi-singh-tomar1126.vercel.app/)
 ---
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditisinghtomar1126@gmail.com)
-
+(aditisinghtomar1126@gmail.com)
 <!--
 **AditiSinghTomar1126/AditiSinghTomar1126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
