@@ -59,38 +59,35 @@ I design and engineer production-ready web architectures. Obsessed with high-per
 <div align="center">
 
   <!-- 3D / Snake Contribution Graph (Green Grid Animation) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126output/github-contribution-grid-snake.svg">
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/AditiSinghTomar1126/AditiSinghTomar1126/output/github-snake.svg">
+</picture>
 
   <br/><br/>
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiSinghTomar1126&theme=github-compact&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+  <!-- 📊 2. Stable GitHub Stats & Streak -->
+<div align="center">
+
+  <!-- 📊  Profile Details Summary Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AditiSinghTomar1126&theme=tokyonight" alt="Aditi Profile Details" />
 
   <br/><br/>
 
-  <!-- GitHub Stats & Streak Stats Side-by-Side -->
-  <a href="https://github.com/AditiSinghTomar1126">
-    <img src="https://github-readme-stats.vercel.app/api?username=AditiSinghTomar1126&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/AditiSinghTomar1126">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AditiSinghTomar1126&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
-  </a>
+ 
+
+</div>
+  
+
+
+
+
+  
 
   <br/><br/>
 
-  <!-- Most Used Languages Card -->
-  <a href="https://github.com/AditiSinghTomar1126">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiSinghTomar1126&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
 
-  <br/><br/>
-
-  <!-- Profile View Counter Badge -->
-  <img src="https://komarev.com/ghpvc/?username=AditiSinghTomar1126&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </div>
 
