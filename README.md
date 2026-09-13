@@ -100,7 +100,7 @@ I design and engineer production-ready web architectures. Obsessed with high-per
 ###  Let's Build Something Great
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-(https://www.linkedin.com/in/aditi-singh-tomar-598320305)
+(https://www.linkedin.com/in/aditisinghtomar)
 ---
 ![Portfolio](https://img.shields.io/badge/Portfolio_Website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 (https://aditisinghtomar-aditi-singh-tomar1126.vercel.app/)
